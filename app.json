@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "FreshMarket",
+    "slug": "TryNav",
+    "privacy": "public",
+    "sdkVersion": "33.0.0",
+    "android":{
+      "package":"com.yourcomapny.app"
+    },
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "description": "",
+    "githubUrl": "https://github.com/fadi-selim/Bit68---Vacancy"
+  }
+}
